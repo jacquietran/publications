@@ -28,6 +28,8 @@ Ordered by recency. Click on bold hyperlinked titles to access full text article
 13. Tran, J., Rice, A.J., Main, L.C. & Gastin, P.B. (2014). Development and implementation of a novel measure for quantifying training loads in rowing: the T2minute method. *Journal of Strength and Conditioning Research*, *28*(4), 1172–1180. https://doi.org/10.1519/jsc.0000000000000248
 14. Tran, J., Netto, K., Aisbett, B., & Gastin, P.B. (2010). [**Validation of accelerometer data for measuring impacts during jumping and landing tasks.**](http://dro.deakin.edu.au/view/DU:30032107) In R. Jensen, W. Ebben, E. Petushek, C. Richter, & K Roemer (Eds.), *Proceedings of the 28th International Society of Biomechanics in Sports Congress*. Paper presented at International Society of Biomechanics in Sports Conference, Northern Michigan University, Marquette, 19–23 July. http://dro.deakin.edu.au/view/DU:30032107
 
+[Return to top](#)
+
 ## Invited presentations
 
 - Tran, J. (2020). Data practices and data problems in sport. Presented at satRday Auckland, 22 February, Auckland, New Zealand.
