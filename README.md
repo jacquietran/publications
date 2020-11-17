@@ -72,6 +72,7 @@ Ordered by recency. Click on bold hyperlinked titles to access full text article
 
 - Tran, J. (2020). *Reproducible reports in R Markdown.* Lightning talk for R-Ladies Auckland, 18 August, Auckland, New Zealand.
 - Tran, J. (2019). *Working with data in elite sport.* Workshop for R-Ladies Auckland, 15 May, Auckland, New Zealand.
+- Tran, J., Wilson, K., & Slyfield, D. (2019). *Learning from campaigns.* Presentation for the 2019 Performance Summit, 13-14 March, Auckland, New Zealand.
 - Tran, J. (2018). *Data visualisation in sport.* Presentation for AUT SPRINZ postgraduate students, 26 April, Auckland, New Zealand.
 - Tran, J. (2018). *Sports analytics in R.* Guest lecture for ACU's Graduate Certificate of Performance Analysis, 15 February, Sydney, Australia.
 - Tran, J. (2014). *Sketching it out: How doodling communicates science.* Presentation for the Deakin University Library Deakin Scholars Week, 23 October, Melbourne, Australia.
