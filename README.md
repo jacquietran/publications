@@ -1,5 +1,7 @@
 # Publications and presentations
 
+## Quick links
+
 Click to jump to:
 
 - [Peer-reviewed journal articles](#peer-reviewed-journal-articles)
@@ -28,7 +30,7 @@ Ordered by recency. Click on bold hyperlinked titles to access full text article
 13. Tran, J., Rice, A.J., Main, L.C. & Gastin, P.B. (2014). Development and implementation of a novel measure for quantifying training loads in rowing: the T2minute method. *Journal of Strength and Conditioning Research*, *28*(4), 1172–1180. https://doi.org/10.1519/jsc.0000000000000248
 14. Tran, J., Netto, K., Aisbett, B., & Gastin, P.B. (2010). [**Validation of accelerometer data for measuring impacts during jumping and landing tasks.**](http://dro.deakin.edu.au/view/DU:30032107) In R. Jensen, W. Ebben, E. Petushek, C. Richter, & K Roemer (Eds.), *Proceedings of the 28th International Society of Biomechanics in Sports Congress*. Paper presented at International Society of Biomechanics in Sports Conference, Northern Michigan University, Marquette, 19–23 July. http://dro.deakin.edu.au/view/DU:30032107
 
-[Return to top](#)
+[Return to top](#quick-links)
 
 ## Invited presentations
 
@@ -37,6 +39,8 @@ Ordered by recency. Click on bold hyperlinked titles to access full text article
 - Tran, J. (2019). Data analytics in exercise & sport. Presented at the 2019 Exercise and Sport Science Australia Forum, 4 May, Melbourne, Australia.
 - Tran, J. (2019). A macro view of sports analytics. Presented at the High Performance Sport Summer Seminar 2019, 5–6 February, Melbourne, Australia.
 - Tran, J. (2018). From insights to decisions: Knowledge sharing in sports analytics. Presented at the 2019 AUT SPRINZ S&C Pre-conference on Sports Performance Analysis, 14 November, Auckland, New Zealand.
+
+[Return to top](#quick-links)
 
 ## Conference proceedings and presentations
 
@@ -62,6 +66,8 @@ Ordered by recency. Click on bold hyperlinked titles to access full text article
 - Larsen, B., Aisbett, B., Lord, C., Neesham-Smith, D., Tran, J., Vincs, K., Martin, J., Vu, S., & Netto, K. (2011). Military body armour: Friend or foe? Presented at the 8th Australasian Biomechanics Conference, 28–29 November, Canberra, Australia.
 - Netto, K., Tran, J., Gastin, P.B., & Aisbett, B. (2010). Validity of GPS housed accelerometer data in running and cutting. Journal of Science and Medicine in Sport, 13(Suppl.), e37. (link)
 
+[Return to top](#quick-links)
+
 ## Workshops, guest lectures, and other talks
 
 - Tran, J. (2020). Reproducible reports in R Markdown. Lightning talk for R-Ladies Auckland, 18 August, Auckland, New Zealand.
@@ -71,6 +77,8 @@ Ordered by recency. Click on bold hyperlinked titles to access full text article
 - Tran, J. (2014). Sketching it out: How doodling communicates science. Presentation for the Deakin University Library Deakin Scholars Week, 23 October, Melbourne, Australia.
 - Tran, J. (2014). Biomechanics in Australian sport: World-leading strategies helping Australian athletes get better, faster, and stronger. Presentation for the Victorian Institute of Sport, 27 June, Melbourne, Australia.
 
+[Return to top](#quick-links)
+
 ## Reviewer for journals and conferences
 
 - New Zealand Research Software Engineering Conference 2020 (9-11 September)
@@ -79,6 +87,8 @@ Ordered by recency. Click on bold hyperlinked titles to access full text article
 - International Journal of Sports Physiology & Performance
 - Journal of Science and Medicine in Sport
 - Journal of Sports Sciences
+
+[Return to top](#quick-links)
 
 ## Other academic works
 
