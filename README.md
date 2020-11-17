@@ -2,7 +2,7 @@
 
 Click to jump to:
 
-- Peer-reviewed journal articles
+- [Peer-reviewed journal articles](#peer-reviewed-journal-articles)
 
 ## Peer-reviewed journal articles
 
