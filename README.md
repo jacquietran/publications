@@ -2,9 +2,9 @@
 
 Click to jump to:
 
-- [Peer-reviewed journal articles](#journal-articles)
+- Peer-reviewed journal articles
 
-## Peer-reviewed journal articles (#journal-articles)
+## Peer-reviewed journal articles
 
 Ordered by recency. Click on bold hyperlinked titles to access full text articles:
 
