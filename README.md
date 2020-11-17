@@ -3,11 +3,11 @@
 Click to jump to:
 
 - [Peer-reviewed journal articles](#peer-reviewed-journal-articles)
-- Invited presentations
-- Conference proceedings and presentations
-- Workshops, guest lectures, and other talks
-- Reviewer for journals and conferences
-- Other academic works
+- [Invited presentations](#invited-presentations)
+- [Conference proceedings and presentations](#conference-proceedings-and-presentations)
+- [Workshops, guest lectures, and other talks](#workshops-guest-lectures-and-other-talks)
+- [Reviewer for journals and conferences](#reviewer-for-journals-and-conferences)
+- [Other academic works](#other-academic-works)
 
 ## Peer-reviewed journal articles
 
