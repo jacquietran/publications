@@ -13,9 +13,9 @@ Click to jump to:
 
 ## Peer-reviewed journal articles
 
-Ordered by recency. Click on bold hyperlinked titles to access full text articles:
+Ordered by recency. Click on bold hyperlinked titles to access free full text articles:
 
-1. Lalor, B., Cormack, S., Halson, S., Kemp, J., & Tran, J. (in press). Business class travel preserves sleep quality & quantity and minimises jet-lag during the Women’s World T20 Cricket Tournament. *International Journal of Sports Physiology and Performance*.
+1. Lalor, B., Cormack, S., Halson, S., Kemp, J., & Tran, J. (2021). Business class travel preserves sleep quality & quantity and minimises jet-lag during the Women’s World T20 Cricket Tournament. *International Journal of Sports Physiology and Performance*, *16*(10), 1490–1501. https://doi.org/10.1123/ijspp.2020-0689
 2. Lalor, B.J., Halson, S.L., Tran, J., Kemp, J.G.,& Cormack, S.J. (2020). A complex relationship: Sleep, external training load, and well-being in elite Australian footballers. *International Journal of Sports Physiology and Performance*, *15*(6), 777–787. https://doi.org/10.1123/ijspp.2019-0061
 3. Taylor, N., Gastin, P.B., Mills, O., & Tran, J. (2020). Network analysis of kick-in possession chains in elite Australian football. *Journal of Sports Sciences*, *38*(9), 1053–*1061. https://doi.org/10.1080/02640414.2020.1740490
 4. Young, C., Luo, W., Gastin, P., Tran, J., & Dwyer, D. (2019). [**Modelling match outcome in Australian football: Improved accuracy with large databases.**](https://content.sciendo.com/view/journals/ijcss/18/1/article-p80.xml?language=en) *International Journal of Computer Science in Sport*, *18*(1), 80–92. https://doi.org/10.2478/ijcss-2019-0005
